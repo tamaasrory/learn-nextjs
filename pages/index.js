@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Welcome to <a href="https://nextjs.org">Next.js!</a>
+        Welcome to <a href="#">Next.js!</a>
       </h1>
 
       <p className="description">
@@ -17,18 +17,18 @@ const Home = () => (
       </p>
 
       <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
+        <a href="#" className="card">
           <h3>Documentation &rarr;</h3>
           <p>Find in-depth information about Next.js features and API.</p>
         </a>
 
-        <a href="https://nextjs.org/learn" className="card">
+        <a href="#" className="card">
           <h3>Learn &rarr;</h3>
           <p>Learn about Next.js in an interactive course with quizzes!</p>
         </a>
 
         <a
-          href="https://github.com/zeit/next.js/tree/master/examples"
+          href="#"
           className="card"
         >
           <h3>Examples &rarr;</h3>
@@ -36,7 +36,7 @@ const Home = () => (
         </a>
 
         <a
-          href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="#"
           className="card"
         >
           <h3>Deploy &rarr;</h3>
@@ -49,11 +49,11 @@ const Home = () => (
 
     <footer>
       <a
-        href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        href="#"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Powered by <img src="/vercel.svg" alt="Vercel Logo" />
+        Tajriy Creative Studio
       </a>
     </footer>
 
